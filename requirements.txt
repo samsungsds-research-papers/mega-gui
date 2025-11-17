@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.2.3
+requests==2.32.3
+httpx==0.28.1
+pillow==11.0.0
+openai==1.70.0
+langchain-openai==0.3.12
+langchain==0.3.22
+langgraph==0.3.24
+typing_extensions==4.12.2
