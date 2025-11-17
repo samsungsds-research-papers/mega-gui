@@ -71,8 +71,6 @@ mega-gui/
 │   └── VLM_serving_guide_via_vllm.md
 ├── data_for_semantic_analysis/
 ├── requirements.txt
-├── LICENSE
-├── NOTICE
 └── README.md
 ```
 
