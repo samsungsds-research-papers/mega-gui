@@ -1,9 +1,10 @@
 # MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI Elements
 
+**arXiv:** http://arxiv.org/abs/2511.13087
+
 MEGA-GUI is a modular, multi-stage framework for GUI grounding. 
 It decomposes grounding into coarse Region-of-Interest (ROI) selection and fine-grained element grounding, orchestrated through specialized Vision-Language Models (VLMs).
 This repository provides code, dataset generators, experiment logs, and serving utilities for reproducing the results of our paper.
-
 ---
 
 ## Features
